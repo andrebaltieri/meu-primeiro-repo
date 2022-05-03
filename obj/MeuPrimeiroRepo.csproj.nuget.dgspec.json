@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj": {}
+    "c:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj": {}
   },
   "projects": {
-    "C:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj": {
+    "c:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj",
+        "projectUniqueName": "c:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj",
         "projectName": "MeuPrimeiroRepo",
-        "projectPath": "C:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj",
+        "projectPath": "c:\\dev\\MeuPrimeiroRepo\\MeuPrimeiroRepo.csproj",
         "packagesPath": "C:\\Users\\balta\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\MeuPrimeiroRepo\\obj\\",
+        "outputPath": "c:\\dev\\MeuPrimeiroRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\balta\\AppData\\Roaming\\NuGet\\NuGet.Config"
